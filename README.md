@@ -2,10 +2,10 @@
 
 A public-facing repo for my wave function collapse implementation.
 
-This was an experiment in implementing a wave function collapse algorithm into a Hex-based world that got a little out of hand. I initially just wanted to see if I could do it but then started adding features inspired by Sid Mier's Alpha Centauri. While this implementation is a purely 2D hex-based thing and uses grid coordinates to work, the method could be adapted to something like an FPS with less effort than you'd thing. 
+This was an experiment in implementing a wave function collapse algorithm into a Hex-based world that got a little out of hand. I initially just wanted to see if I could do it but then started adding features inspired by Sid Mier's Alpha Centauri. While this implementation is a purely 2D hex-based thing and uses grid coordinates to work, the method could be adapted to something like an FPS with less effort than you'd think. 
 
 ## Minimum Unity Version 2021.3
-Note: The actual wave function collapse code and 99% of the other scripts can run on earlier versions of unity. The only thing that requires a later version of unity is Unity's Mathematics package that I used for altitude manipulation
+Note: The actual wave function collapse code and 99% of the other scripts can run on earlier versions of Unity. The only thing that requires a later version of Unity is Unity's Mathematics package that I used for altitude manipulation
 
 ## Version 1.0.0
 
